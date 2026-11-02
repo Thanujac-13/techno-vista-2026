@@ -9,7 +9,7 @@ export const SITE = {
   venue: "College Campus",
   email: "rushikeshswami1224@gmail.com",
   phone: "7483463590",
-  logo: "/images/college-logo.png",
+  logo: "/college-logo.png",
   // Add your deployed Google Apps Script Web App URL ending in /exec.
   appsScriptUrl: "https://script.google.com/macros/s/AKfycbw_t3TKVqbvmkkXIDFYxexEnMaq-ct8x929ktXZ-XcwCc3gKQ5200GeRufKLwigRSiB/exec",
   // Optional: add your public Google Form URL.
